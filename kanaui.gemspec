@@ -21,7 +21,7 @@ Gem::Specification.new do |s|
 
   s.add_dependency 'd3_rails', '~> 3.2.8'
   s.add_dependency 'jquery-datatables-rails', '~> 3.4.0'
-  s.add_dependency 'jquery-rails', '~> 4.4.0'
+  s.add_dependency 'jquery-rails', '~> 4.0.5'
   s.add_dependency 'js-routes', '~> 2.2.4'
   s.add_dependency 'rails', '~> 5.2.8.1'
   # See https://github.com/seyhunak/twitter-bootstrap-rails/issues/897
