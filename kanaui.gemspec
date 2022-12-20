@@ -30,8 +30,8 @@ Gem::Specification.new do |s|
   s.add_dependency 'killbill-client'
   s.add_dependency 'sass-rails'
   s.add_dependency 'spinjs-rails'
-  s.add_dependency 'bootstrap'
-  s.add_dependency 'bootstrap-sass'
+  s.add_dependency 'bootstrap-sass', '~> 3.4.1'
+  s.add_dependency 'sassc-rails', '>= 2.1.0'
 
   s.add_development_dependency 'gem-release'
   s.add_development_dependency 'json'
